@@ -4,7 +4,7 @@
 #define MAIN_H  
 
 
-int _putchar(char c);
+int _putchar(char c[10]);
 
 
 #endif
