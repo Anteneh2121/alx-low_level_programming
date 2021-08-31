@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * main-print Holberton
+ * main print_ Holberton
  *return always (0)
  */
 
@@ -10,7 +10,7 @@ int main(void)
 
 char *c = "Holberton";
 int i;
-for (i = 0; i < 10; i++)
+for (i = 0; i < 9; i++)
 {
 _putchar(c[i]);
 }
