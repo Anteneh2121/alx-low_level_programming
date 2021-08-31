@@ -1,20 +1,19 @@
 #include "main.h"
 /**
- * main print_ Holberton, followed by a new line.
+ * main - Entry point
  *
- *The program should return 0
+ * Return: Always 0 (Success)
  */
-
 int main(void)
-
 {
+char *sh = "Holberton";
 
-char *c = "Holberton";
-int i;
-for (i = 0; i <= 9; i++)
+while (*sh)
 {
-_putchar(c[i]);
+_putchar(*sh);
+sh++;
 }
 _putchar('\n');
+
 return (0);
 }
