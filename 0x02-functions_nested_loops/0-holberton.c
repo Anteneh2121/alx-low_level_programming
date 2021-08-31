@@ -1,7 +1,8 @@
 #include "main.h"
 /**
- * main print_ Holberton
- *return always (0)
+ * main print_ Holberton, followed by a new line.
+ *
+ *The program should return 0
  */
 
 int main(void)
