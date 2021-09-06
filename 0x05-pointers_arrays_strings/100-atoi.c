@@ -18,7 +18,7 @@ i++;
 if (s[i] == '-')
 test = -test;
 if (s[i] >= '0' && s[i] <= '9')
-n = (10 * n) + test * (s[i] - '0');
+n = (10 * n) +test * (s[i] - '0');
 else if (n)
 break;
 }
