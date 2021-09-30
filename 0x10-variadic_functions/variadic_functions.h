@@ -22,8 +22,9 @@ void print_string(va_list);
  */
 typedef struct format_t
 {
-  char *t;
-  void (*f)(va_list);
-} format_t;
+char *t;
+void (*f)(va_list);
+}
+format_t;
 
 #endif /* VARIADIC_FUNCTIONS.H */
