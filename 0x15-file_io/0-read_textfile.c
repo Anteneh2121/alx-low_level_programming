@@ -1,5 +1,6 @@
 #include "main.h"
-#include "main.c"
+#include <stdio.h>
+#include <stdlib.h>
 /**
  * read_textfile - read a file.
  * @filename: the file to read.
