@@ -1,5 +1,5 @@
 #include "main.h"
-#include "holberton.h"
+#include "main.c"
 /**
  * read_textfile - read a file.
  * @filename: the file to read.
