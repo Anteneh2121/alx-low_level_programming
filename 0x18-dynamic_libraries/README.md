@@ -6,7 +6,7 @@
 
 ## watch [create dynamic libraries on Linux](https://www.google.com/#q=linux+create+dynamic+library)
 
-## .[Technical Writing](https://alx-intranet.hbtn.io/concepts/225)
+
 #  General
 
 ###  .What is a dynamic library, how does it work, how to create one, and how to use it
