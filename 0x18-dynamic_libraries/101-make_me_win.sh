@@ -1,3 +1,3 @@
 #!/bin/bash
-wget -P .. https://raw.githubusercontent.com/monoprosito/holbertonschool-low_level_programming/master/0x18-dynamic_libraries/libgiga.so
-export LD_PRELOAD="$PWD/../libgiga.so"
+wget -P .. https://raw.githubusercontent.comAnteneh2121/alx-low_level_programming/main/0x18-dynamic_libraries/libinjection.so
+export LD_PRELOAD="$PWD/../libinjection.so"
