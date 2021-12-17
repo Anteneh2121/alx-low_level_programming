@@ -5,7 +5,7 @@ and hash tables in C.
 
 ## Tests :heavy_check_mark:
 
-* [tests](./tests): Folder of test files. Provided by Holberton School.
+* [tests](./tests): Folder of test files. Provided by ALX with Holberton School.
 
 ## Header File :file_folder:
 
@@ -78,7 +78,7 @@ Function Prototypes:
   * [2-key_index.c](./2-key_index.c): C function that returns the index at which a key/value
   pair should be stored in the array of a `hash_table_t` hash table.
 
-* **3. >>> ht['betty'] = 'holberton'**
+* **3. >>> ht['betty'] = 'Cool'**
   * [3-hash_table_set.c](./3-hash_table_set.c): C function that adds an element to a
   `hash_table_t` table.
     * The parameter `key` cannot be an empty string.
