@@ -1,6 +1,6 @@
 /**
  * main - prints to string
- * Description: Prints positive, negative or zero
+ * Description: _putchar followed by new line
  * Return: 0
  */
 #include <stdio.h>
